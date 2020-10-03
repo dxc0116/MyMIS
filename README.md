@@ -1,5 +1,5 @@
 # MiniMIS
-I am a manager of an enterprise. I usually spend much time to deal with kinds of management informations. And I love programming. So I want to develop a mini management information system to improve my working efficiency.
+I usually spend much time to deal with kinds of management informations. So I want to develop a mini management information system to improve my working efficiency.
 
 The miniMIS is base on brower/server mode. It will be achieved by using ASP.NET and SQL Server 2005.
 
